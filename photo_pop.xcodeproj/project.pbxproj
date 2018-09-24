@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B3315779215868160031845A /* CVPixelBufferExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3315778215868160031845A /* CVPixelBufferExtension.swift */; };
 		B332C5DB2158204D00F4ECA8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B332C5DA2158204D00F4ECA8 /* AppDelegate.swift */; };
 		B332C5DD2158204D00F4ECA8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B332C5DC2158204D00F4ECA8 /* ViewController.swift */; };
 		B332C5E02158204D00F4ECA8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B332C5DE2158204D00F4ECA8 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B3315778215868160031845A /* CVPixelBufferExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CVPixelBufferExtension.swift; sourceTree = "<group>"; };
 		B332C5D72158204D00F4ECA8 /* photo_pop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = photo_pop.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B332C5DA2158204D00F4ECA8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B332C5DC2158204D00F4ECA8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		B332C5D92158204D00F4ECA8 /* photo_pop */ = {
 			isa = PBXGroup;
 			children = (
+				B3315778215868160031845A /* CVPixelBufferExtension.swift */,
 				B332C5EC2158207800F4ECA8 /* PHOTO.HEIC */,
 				B332C5DA2158204D00F4ECA8 /* AppDelegate.swift */,
 				B332C5DC2158204D00F4ECA8 /* ViewController.swift */,
@@ -141,6 +144,7 @@
 			files = (
 				B332C5DD2158204D00F4ECA8 /* ViewController.swift in Sources */,
 				B332C5DB2158204D00F4ECA8 /* AppDelegate.swift in Sources */,
+				B3315779215868160031845A /* CVPixelBufferExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
